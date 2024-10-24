@@ -50,3 +50,5 @@ web/*/static/images/
 web/*/static/assets/
 web/*/static/css/
 *.env
+
+Osiris/
