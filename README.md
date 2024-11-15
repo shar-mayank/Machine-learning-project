@@ -25,14 +25,8 @@ Here are some detections of the exercises:
 -   Bicep Curl
 <p align="center"><img src="images/bicep_curl.gif" alt="Logo" width="70%"></p>
 
--   Basic Plank
-<p align="center"><img src="images/plank.gif" alt="Logo" width="70%"></p>
-
 -   Basic Squat
 <p align="center"><img src="images/squat.gif" alt="Logo" width="70%"></p>
-
--   Lunge
-<p align="center"><img src="images/lunge.gif" alt="Logo" width="70%"></p>
 
 -   Models' evaluation results and website screenshots [here](#usage)
 
